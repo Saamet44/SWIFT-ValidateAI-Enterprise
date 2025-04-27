@@ -1,0 +1,5 @@
+flask
+azure-storage-blob
+azure-identity
+azure-keyvault-secrets
+python-dotenv
